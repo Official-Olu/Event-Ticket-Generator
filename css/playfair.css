@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Playfair';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Playfair'), url('../playfair-woff/Playfair[opsz\,wdth\,wght].woff') format('woff');
+}
+@font-face {
+    font-family: 'Playfair';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Playfair'), url('../playfair-woff/Playfair-Italic[opsz\,wdth\,wght].woff') format('woff');
+}
+
+
